@@ -2,15 +2,16 @@
 
 ![Spoof Image](Images/spoof.jpg)
 
-**spoofMe** se trata de un programa construido en el lenguaje de programación _Python_, ideal para el Spoofing de llamadas y de mensajería instantánea (SMS).
+**spoofMe** is a program built in the Python programming language, ideal for spoofing calls and instant messaging (SMS) using SpoofCard.
 
-Para el correcto funcionamiento del programa, es necesario contar con una cuenta del servicio https://www.spoofcard.com/, así como tener créditos registrados, pues en caso contrario el procedimiento no se efectuará correctamente.
+For the program to function correctly, it is necessary to have an account for the service https://www.spoofcard.com/, as well as to have registered credits, otherwise the procedure will not be carried out correctly.
 
-Actualmente, la herramienta cuenta con las siguientes utilidades:
+Currently, the tool has the following utilities:
 
-* Spoofing de Mensajería Instantánea (SMS)
-* Spoofing de Llamadas Telefónicas
+Instant Messaging (SMS) Spoofing
+Phone Call Spoofing
+Improvements to incorporate:
 
-Mejoras a incorporar:
+Management of telephone calls from terminal.
 
-* Gestión de llamadas telefónicas desde terminal.
+This version is an updated version to work with the most current version of the website. The previous version is no longer working.
